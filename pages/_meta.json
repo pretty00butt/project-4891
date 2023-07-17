@@ -1,7 +1,9 @@
 {
   "index": "Introduction",
   "bills": "의안 목록",
+  "daejeon": "대전광역시",
   "mfds": "의약품 안전나라",
+  "suspended-items": "생산/수입/공급중단 보고 의약품",
   "contact": {
     "title": "Contact ↗",
     "type": "page",
