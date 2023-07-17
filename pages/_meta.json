@@ -1,15 +1,11 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
+  "bills": "의안 목록",
+  "mfds": "의약품 안전나라",
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://hoony.land/",
     "newWindow": true
   }
 }

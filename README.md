@@ -1,23 +1,30 @@
-# Nextra Docs Template 
+# Project 4891
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+감시당하는 것은 우리가 아니라 저들입니다.
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+*Project 4891*은 정부 및 공공기관에서 생산하는 많은 정보를 수집하고 감시하기 위한 프로젝트입니다. 이미 각 분야에서 정부 및 공공기관의 활동을 감시하는 단체들이 있지만 자원의 부족으로 인해 대부분 생각에만 그쳐있는 상황입니다. *Project 4891*은 이러한 단체들의 생각에 약간의 기술적인 노력을 더하여 정부 및 공공기관의 활동을 감시하는 것을 목표로 합니다.
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+## 감시대상
 
-## Quick Start
+- [복지로](https://www.bokjiro.go.kr) 복지서비스
+- 의안 목록 w/
+  - [경상남도](https://council.gyeongnam.go.kr)
+  - [대전광역시](https://council.daejeon.go.kr)
+  - [부산광역시](https://council.busan.go.kr)
+  - [인천광역시](https://www.icouncil.go.kr/)
+  - [전라남도](https://bill.jnassembly.go.kr)
+  - [제주도](https://www.council.jeju.kr)
+- [의약품안전나라](https://nedrug.mfds.go.kr) -
+  - [생산/수입/공급중단 보고 의약품](https://nedrug.mfds.go.kr/pbp/CCBAF01)
+- 지역위원회
+  - [대전광역시](https://www.daejeon.go.kr/drh/acm/drhAcmBoardList.do?menuSeq=6412)
 
-Click the button to clone this repository and deploy it on Vercel:
+## 기여
 
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
+- [hoony](https://hoony.land)
 
-## Local Development
+## 감시단체
 
-First, run `pnpm i` to install the dependencies.
-
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
-
-## License
-
-This project is licensed under the MIT License.
+- [건강 사회를 위한 약사회](http://www.pharmacist.or.kr/)
+- [비투비](https://btob.or.kr/)
+- [정보공개센터](https://cfoi.or.kr/)
